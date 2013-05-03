@@ -1,2 +1,4 @@
-require 'sinatra'  
-require 'redis' 
+source 'https://rubygems.org'
+
+gem 'sinatra'  
+gem 'redis' 
