@@ -1,6 +1,5 @@
-require 'sinatra'  
-require 'redis'  
-  
+require 'sinatra'
+
 redis = Redis.new  
   
 helpers do  
